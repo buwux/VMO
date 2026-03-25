@@ -3,7 +3,7 @@
  
 A WiFi-controlled spider robot pet with personality, emotions, and an IGCSE teaching mode — built from scratch by Buwuz.
  
-![VMO Front](images/vmo_front.jpg)
+![VMO Front](VMO-SpiderBot/images/Actual)
  
 ## What is VMO?
  
