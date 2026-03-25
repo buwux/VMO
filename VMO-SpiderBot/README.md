@@ -3,8 +3,8 @@
  
 A WiFi-controlled spider robot pet with personality, emotions, and an IGCSE teaching mode — built from scratch by Buwuz.
  
-![VMO Front](VMO-SpiderBot/images/ Actual VMO)
- 
+VMO-SpiderBot/images/ Actual VMO
+
 ## What is VMO?
  
 VMO is a quadruped spider robot powered by an ESP32-WROOM-DA. It has 8 servo-driven legs, an OLED face that displays 16 animated expressions, a speaker that produces Animal Crossing-style robot sounds, and a touch sensor for physical interaction. VMO develops a personality over time based on how you interact with it (playful, cuddly, chaotic, or chill), maintains mood/energy/XP stats, and can even teach IGCSE Further Math, Chemistry, and Physics through animated diagrams on its 1.3" OLED screen.
